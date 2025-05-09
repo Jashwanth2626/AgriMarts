@@ -1,0 +1,81 @@
+soil_ph,soil_moisture,temperature,rainfall,humidity,crop_type
+6.5,20,25,200,60,Wheat
+7.0,30,35,150,70,Rice
+5.5,40,20,300,80,Barley
+6.0,50,35,250,90,Maize
+7.5,45,30,280,75,Sugarcane
+6.8,35,28,180,65,Cotton
+6.2,25,32,220,70,Soybean
+5.8,38,22,320,85,Potato
+6.3,48,30,260,88,Sunflower
+7.2,42,29,290,77,Coffee
+6.6,33,27,190,63,Tea
+6.9,28,34,210,72,Chickpea
+5.4,42,21,310,83,Lentil
+6.1,52,33,240,92,Groundnut
+7.4,47,32,270,73,Coconut
+6.7,36,26,195,68,Tomato
+6.4,31,36,230,74,Chilli
+5.7,39,24,330,87,Onion
+6.5,49,31,255,89,Garlic
+7.1,43,28,285,76,Ginger
+6.6,39,26,200,60,Turmeric
+6.8,31,35,150,70,Black Pepper
+5.9,40,19,300,80,Cardamom
+6.2,52,35,250,90,Cashew
+7.5,44,30,280,75,Almond
+6.7,36,27,180,65,Apple
+6.3,26,31,220,70,Orange
+5.7,38,23,320,85,Mango
+6.4,48,30,260,88,Banana
+7.2,41,29,290,77,Grapes
+6.6,32,27,190,63,Pomegranate
+6.9,27,34,210,72,Guava
+5.5,43,20,310,83,Papaya
+6.1,51,33,240,92,Watermelon
+7.4,46,32,270,73,Muskmelon
+6.8,37,26,195,68,Cucumber
+6.5,32,36,230,74,Brinjal
+5.8,39,25,330,87,Cabbage
+6.7,50,31,255,89,Cauliflower
+7.1,42,28,285,76,Spinach
+6.7,38,26,200,60,Carrot
+6.9,30,35,150,70,Beetroot
+5.6,40,19,300,80,Radish
+6.3,52,35,250,90,Okra
+7.6,45,30,280,75,Bitter Gourd
+6.5,35,27,180,65,Ridge Gourd
+6.1,27,31,220,70,Snake Gourd
+5.9,37,23,320,85,Bottle Gourd
+6.6,47,30,260,88,Pumpkin
+7.3,41,29,290,77,Ladies Finger
+6.5,31,27,190,63,Capsicum
+6.8,26,34,210,72,Green Peas
+5.4,43,20,310,83,French Beans
+6.0,51,33,240,92,Cowpea
+7.5,46,32,270,73,Cluster Beans
+6.9,39,26,195,68,Drumstick
+6.4,32,36,230,74,Curry Leaves
+5.7,38,24,330,87,Mint
+6.4,49,31,255,89,Coriander
+7.2,43,28,285,76,Fenugreek
+6.5,39,26,200,60,Basil
+6.7,31,35,150,70,Oregano
+5.8,40,19,300,80,Thyme
+6.2,52,35,250,90,Sage
+7.4,44,30,280,75,Rosemary
+6.6,36,27,180,65,Lavender
+6.3,26,31,220,70,Marigold
+5.7,39,23,320,85,Sunflower
+6.4,48,30,260,88,Jasmine
+7.2,42,29,290,77,Rose
+6.7,33,27,190,63,Orchid
+6.9,28,34,210,72,Lily
+5.4,42,20,310,83,Tulip
+6.1,51,33,240,92,Daffodil
+7.4,47,32,270,73,Carnation
+6.7,36,26,195,68,Chrysanthemum
+6.4,31,36,230,74,Daisy
+5.7,39,24,330,87,Poppy
+6.5,49,31,255,89,Iris
+7.1,43,28,285,76,Gladiolus
